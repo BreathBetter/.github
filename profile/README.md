@@ -2,16 +2,16 @@
 Welcome to Breath Better's GitHub organization! We're glad you're here. Below is an outline of our ongoing projects and repositories:
 
 ## Our Repositories
-### Arduino Integration
+### [Arduino Integration](https://github.com/BreathBetter/arduino)
 This repository contains the software for our Arduino sensors, responsible for gathering critical information and transmitting it to our mobile application.
 
-### Android App
+### [Android App](https://github.com/BreathBetter/android-app)
 This repository hosts the development of our Android application, designed to provide innovative solutions related to data collection and transmission for our platform.
 
-### Backend Services
+### [Backend Services](https://github.com/BreathBetter/backend)
 In this repository, you'll find the core server code, responsible for managing data flow and communication between the mobile app, the server, and the database.
 
-### Web Interface
+### [Web Interface](https://github.com/BreathBetter/frontend)
 Here, we are developing a user-friendly web application that allows users to access and visualize the collected data effectively.
 
 #
