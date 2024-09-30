@@ -1,6 +1,14 @@
 # Help us ALL Breath Better
 Welcome to Breath Better's GitHub organization! We're glad you're here. Below is an outline of our ongoing projects and repositories:
 
+## Description
+
+BreathBetter is an organization committed to informing users about the true quality of the air they breathe.
+
+### Problem Solved
+
+Many people are unaware of the actual air quality in their immediate environment. Traditional air quality monitoring stations are often far apart and don't provide localized data. This project allows for real-time, hyperlocal air quality monitoring, empowering individuals to make informed decisions about their outdoor activities and health.
+
 ## Our Repositories
 ### [Arduino Integration](https://github.com/BreathBetter/arduino)
 This repository contains the software for our Arduino sensors, responsible for gathering critical information and transmitting it to our mobile application.
